@@ -1,0 +1,12 @@
+Game yang ingin dibuat:
+- Game hitung-hitungan cepat: program memberi soal matematika
+  (tambah, kurang, kali), pemain menjawab secepat mungkin,
+  lalu program mengecek benar atau salah dan menghitung skor.
+
+Dataset yang ingin dieksplorasi:
+- Pengeluaran harian: mencatat pengeluaran tiap hari, lalu
+  menghitung total dan melihat kategori mana yang paling besar.
+
+Aplikasi web yang ingin dibuat:
+- Pencatat tugas: bisa menambah tugas beserta deadline-nya,
+  lalu ada alarm atau notifikasi pengingat saat H-1 deadline.
